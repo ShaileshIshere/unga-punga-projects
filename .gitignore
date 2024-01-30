@@ -1,4 +1,5 @@
-manga.html
-manga.css
-timetable.html
-firstcode.html
+# to ignore files, we simply have to mention them in this file and those file are gonna ignore to be pushes in git-hub
+# manga.html
+# manga.css
+# timetable.html
+# firstcode.html
